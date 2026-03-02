@@ -71,16 +71,14 @@ Start building and running AlohaMini:
 
 
 ##  Product Line
-| Model | Build | Rigidity | Target Users |
-|---|---|---|---|
-| **AlohaMini** | Fully 3D-printed | Standard | Education, makers, research labs, home builds |
-| **AlohaMini Pro** | Hybrid **3D-print + metal** | **3×–5× stiffer** | Algorithm-focused researchers who need plug-and-play, reliable, and stable hardware — without assembly effort |
+| Model | Build | Rigidity | Target Users | Official Store (US) | Official Store (CN) |
+|---|---|---|---|---|---|
+| **AlohaMini** | Fully 3D-printed | Standard | Education, makers, research labs, home builds | - | [taobao](https://item.taobao.com/item.htm?abbucket=9&id=1015799132286) |
+| **AlohaMini Pro** | Hybrid **3D-print + metal** | **~3×–5× stiffer** | Researchers needing plug-and-play, stable hardware | - | [taobao](https://item.taobao.com/item.htm?abbucket=9&id=1015799132286) |
 
-> Same URDF & control stack across both versions — only structural materials differ.
-
-### AlohaMini Pro Access  
-Pro hardware & kits available for advanced users.  
-📩 **Contact to request early access.**
+> Same URDF & control stack across both versions — only structural materials differ.  
+> Official store links are optional purchase channels for complete robots / kits.  
+> AlohaMini remains open-source and can be self-built from the BOM, 3D-print files, and assembly docs.  
 
 ## Contact
 Email: liyiteng+github@gmail.com  
@@ -100,4 +98,3 @@ If you like this project:
 - ⭐ Star the repo  
 - 🔔 Follow updates  
 - 💬 Join the community  
-
