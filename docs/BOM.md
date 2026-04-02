@@ -81,7 +81,7 @@ If you prefer the base to operate as an **independent host system** (Wi‑Fi, un
 
 | Item | Model / Notes | Qty | Unit Cost (US) | Buy (US) | Unit Cost (CN) | Buy (CN) |
 |------|---------------|-----|----------------|----------|----------------|----------|
-| Compute board | Raspberry Pi 5 (4GB/8GB) | 1 | $80 | [Adafruit](https://www.adafruit.com/product/5812) | ¥600 | [taobao](https://item.taobao.com/item.htm?id=688878446695) |
+| Compute board | Raspberry Pi 5 (≥ 2GB RAM) | 1 | $80 | [Adafruit](https://www.adafruit.com/product/5812) | ¥600 | [taobao](https://item.taobao.com/item.htm?id=688878446695) |
 | DC converter | 12V → 5V / 5A buck converter | 1 | $13 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) | ¥75 | [taobao](https://item.taobao.com/item.htm?id=800698078303) |
 | Monitor | 7-inch HD IPS HDMI interface + touch + Type C power supply | 1 | — | Amazon | ¥291 | [taobao](https://item.taobao.com/item.htm?id=592070943040) |
 
