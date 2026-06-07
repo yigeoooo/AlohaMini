@@ -72,10 +72,10 @@ AlohaMini2 is LeRobot-ready out of the box and remains fully open-source — har
 1. **BOM** — review the component list and source parts  
    See **[Bill of Materials](AlohaMini2/docs/BOM.md)**
 
-2. **3D Printing** — print all structural parts (~4 kg filament, Bambu P2S)  
+2. **3D Printing** — print all structural parts (~6 kg filament, Bambu P2S)  
    See **[Print Guide](AlohaMini2/docs/print_guide.md)**
 
-3. **Assembly** — build in ~60 minutes (arms pre-assembled)  
+3. **Assembly** — build in ~120 minutes (arms pre-assembled)  
    See **[Assembly Guide](AlohaMini2/docs/assembly_guide.md)**
 
 4. **Software setup & teleoperation** — install, connect, control  
