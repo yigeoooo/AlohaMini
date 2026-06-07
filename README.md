@@ -50,6 +50,8 @@ AlohaMini2 is LeRobot-ready out of the box and remains fully open-source — har
 
 ## Bill of Materials (BOM)
 
+> This BOM lists only the robot's major components, excluding the leader arm.
+
 | Component | Model / Notes | Qty | Unit Price (USD) |
 |-----------|---------------|-----|------------------|
 | Servo — standard | Feetech STS-3215 (12V, follower arms + base) | 11 | ~$16 |
@@ -59,7 +61,7 @@ AlohaMini2 is LeRobot-ready out of the box and remains fully open-source — har
 | Cameras | 720p USB, 2.4 mm focal length | 5 | ~$17 |
 | Omni wheels | 127 mm (74A) | 3 | ~$40 |
 | Battery 12V | 11200 mAh Li-ion | 2 | ~$16 |
-| Frame | 3D-printed on Bambu P2S | — | ~4 kg filament |
+| Frame | 3D-printed on Bambu P2S | — | ~6 kg filament |
 | **Total** | — | — | **~$950** |
 
 > Full BOM with CN/US buy links: **[AlohaMini2/docs/BOM.md](AlohaMini2/docs/BOM.md)**  
